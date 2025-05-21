@@ -1,0 +1,13 @@
+duckduckgo_search==5.3.1b1
+einops
+fastapi
+# git+https://github.com/InternLM/lagent.git
+lagent==0.2.4
+gradio
+janus
+lmdeploy
+pyvis
+sse-starlette
+termcolor
+transformers==4.41.0
+uvicorn
