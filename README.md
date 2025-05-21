@@ -1,6 +1,6 @@
 # Let Androids Dream of Electric Sheep
 
-**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**
+**Let Androids Dream (LAD) of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**
 
 ## 🔥News
 
