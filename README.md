@@ -67,7 +67,7 @@ Our evaluation metric encompasses five key perspectives: ***Surface-level Inform
 
 ### Full Results
 
-![Full Results](asserts/Full_Results.png)
+![Full Results](asserts/Full_results.png)
 
 ### Ablation Study
 
