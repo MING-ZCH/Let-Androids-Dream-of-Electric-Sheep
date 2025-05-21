@@ -1,3 +1,5 @@
+# This is a python-like pseudocode example of the LAD pipeline.
+
 def Perception(image):
     image_dep = Perception_image_dep(prompt1_image_dep, image)
     keywords = Perception_keywords(prompt1_keywords, image_dep)
