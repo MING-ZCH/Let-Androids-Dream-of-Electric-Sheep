@@ -93,7 +93,12 @@ Our evaluation metric encompasses five key perspectives: ***Surface-level Inform
 If you find our work helpful in your research, please cite the following paper:
 
 ```
-
+@article{zhang2025letandroidsdream,
+  title={Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework}, 
+  author={Chenhao Zhang and Yazhe Niu},
+  journal={arXiv preprint arXiv:2505.17019},
+  year={2025}
+}
 ```
 
 ## Acknowledgments
