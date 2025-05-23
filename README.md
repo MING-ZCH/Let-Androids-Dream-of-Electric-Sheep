@@ -4,6 +4,7 @@
 
 ## 🔥News
 
+- **[May. 2024]**: Our paper has released on [arXiv](https://arxiv.org/abs/2505.17019) , check it out!
 - **[May. 2025]**: Our code and dataset have been released!
 
 ## Introduction
