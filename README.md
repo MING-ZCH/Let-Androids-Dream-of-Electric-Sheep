@@ -2,11 +2,6 @@
 
 **Let Androids Dream (LAD) of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**
 
-## 🔥News
-
-- **[May. 2024]**: Our paper has released on [arXiv](https://arxiv.org/abs/2505.17019) , check it out!
-- **[May. 2025]**: Our code and dataset have been released!
-
 ## Introduction
 
 Metaphorical comprehension in images remains a critical challenge for AI systems, as existing models struggle to grasp the nuanced cultural, emotional, and contextual implications embedded in visual content.
@@ -89,21 +84,3 @@ Our evaluation metric encompasses five key perspectives: ***Surface-level Inform
 #### LAD-Search: Stage II (Search)
 
 ![LAD-Search](assets/LAD_Search.png)
-
-## Citation
-
-If you find our work helpful in your research, please cite the following paper:
-
-```
-@article{zhang2025letandroidsdream,
-  title={Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework}, 
-  author={Chenhao Zhang and Yazhe Niu},
-  journal={arXiv preprint arXiv:2505.17019},
-  year={2025}
-}
-```
-
-## Acknowledgments
-
-* [II-Bench](https://github.com/II-Bench/II-Bench): An English Image Implication Understanding Benchmark for Multimodal Large Language Models ***(NeurIPS 2024)***
-* [CII-Bench](https://github.com/MING-ZCH/CII-Bench): Can MLLMs Understand the Deep Implication Behind Chinese Images? ***(ACL 2025)***
