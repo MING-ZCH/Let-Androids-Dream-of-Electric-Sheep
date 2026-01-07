@@ -90,6 +90,11 @@ Our evaluation metric encompasses five key perspectives: ***Surface-level Inform
 
 ![LAD-Search](assets/LAD_Search.png)
 
+#### Different Base Models
+
+![LAD-Base_model](assets/LAD_Base_model.png)
+
+
 ## Citation
 
 If you find our work helpful in your research, please cite the following paper:
