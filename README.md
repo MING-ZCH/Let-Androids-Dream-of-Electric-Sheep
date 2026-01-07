@@ -1,10 +1,10 @@
 # Let Androids Dream of Electric Sheep
 
-**Let Androids Dream (LAD) of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**
+**Let Androids Dream (LAD) of Electric Sheep: A Human-Inspired Image Implication Understanding and Reasoning Framework**
 
 ## 🔥News
-
-- **[May. 2024]**: Our paper has released on [arXiv](https://arxiv.org/abs/2505.17019) , check it out!
+- **[Dec. 2025]**: Our paper has been updated on [arXiv](https://arxiv.org/abs/2505.17019v2) , check it out!
+- **[May. 2025]**: Our paper has released on [arXiv](https://arxiv.org/abs/2505.17019) , check it out!
 - **[May. 2025]**: Our code and dataset have been released!
 
 ## Introduction
@@ -13,7 +13,7 @@ Metaphorical comprehension in images remains a critical challenge for AI systems
 While multimodal large language models (MLLMs) excel in basic Visual Question Answer (VQA) tasks, they struggle with a fundamental limitation on image implication tasks: contextual gaps that obscure the relationships between different visual elements and their abstract meanings.
 Inspired by the human cognitive process, we propose ***Let Androids Dream (LAD)***, a novel framework for image implication understanding and reasoning.
 LAD addresses contextual missing through the three-stage framework: (1) **Perception**: converting visual information into rich and multi-level textual representations, (2) **Search**: iteratively searching and integrating cross-domain knowledge to resolve ambiguity, and (3) **Reasoning**: generating context-alignment image implication via explicit reasoning.
-Our framework with the lightweight GPT-4o-mini model achieves SOTA performance compared to 15+ MLLMs on English image implication benchmark and a huge improvement on Chinese benchmark, performing comparable with the GPT-4o model on Multiple-Choice Question (MCQ) and outperforms 36.7% on Open-Style Question (OSQ). Additionally, our work provides new insights into how AI can more effectively interpret image implications, advancing the field of vision-language reasoning and human-AI interaction.
+Our framework with the lightweight GPT-4o-mini model achieves SOTA performance compared to 15+ MLLMs on English image implication benchmark and a huge improvement on Chinese benchmark, performing comparable with the Gemini-3.0-pro model on Multiple-Choice Question (MCQ) and outperforms the GPT-4o model 36.7% on Open-Style Question (OSQ). Generalization experiments also show that our framework can effectively benefit general VQA and visual reasoning tasks. Additionally, our work provides new insights into how AI can more effectively interpret image implications, advancing the field of vision-language reasoning and human-AI interaction.
 
 ## Method
 
