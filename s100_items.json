@@ -1,0 +1,841 @@
+[
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-1",
+  "image_file": "dev-1.jpg",
+  "domain": "Society",
+  "image_type": "Single-panel Comic"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-2",
+  "image_file": "dev-2.jpg",
+  "domain": "Others",
+  "image_type": "Multi-panel Comic"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-3",
+  "image_file": "dev-3.jpg",
+  "domain": "Society",
+  "image_type": "Multi-panel Comic"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-4",
+  "image_file": "dev-4.jpg",
+  "domain": "Psychology",
+  "image_type": "Multi-panel Comic"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-5",
+  "image_file": "dev-5.jpg",
+  "domain": "Psychology",
+  "image_type": "Multi-panel Comic"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-6",
+  "image_file": "dev-6.jpg",
+  "domain": "Life",
+  "image_type": "Single-panel Comic"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-7",
+  "image_file": "dev-7.jpg",
+  "domain": "Life",
+  "image_type": "Multi-panel Comic"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-8",
+  "image_file": "dev-8.jpg",
+  "domain": "Society",
+  "image_type": "Single-panel Comic"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-9",
+  "image_file": "dev-9.jpg",
+  "domain": "Life",
+  "image_type": "Single-panel Comic"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-10",
+  "image_file": "dev-10.jpg",
+  "domain": "Psychology",
+  "image_type": "Single-panel Comic"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-11",
+  "image_file": "dev-11.jpg",
+  "domain": "Life",
+  "image_type": "Illustration"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-12",
+  "image_file": "dev-12.jpg",
+  "domain": "Psychology",
+  "image_type": "Illustration"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-13",
+  "image_file": "dev-13.jpg",
+  "domain": "Life",
+  "image_type": "Illustration"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-14",
+  "image_file": "dev-14.jpg",
+  "domain": "Life",
+  "image_type": "Illustration"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-15",
+  "image_file": "dev-15.jpg",
+  "domain": "Life",
+  "image_type": "Illustration"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-16",
+  "image_file": "dev-16.jpg",
+  "domain": "Others",
+  "image_type": "Meme"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-17",
+  "image_file": "dev-17.jpg",
+  "domain": "Life",
+  "image_type": "Meme"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-18",
+  "image_file": "dev-18.jpg",
+  "domain": "Society",
+  "image_type": "Meme"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-19",
+  "image_file": "dev-19.jpg",
+  "domain": "Life",
+  "image_type": "Meme"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-20",
+  "image_file": "dev-20.jpg",
+  "domain": "Art",
+  "image_type": "Meme"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-21",
+  "image_file": "dev-21.jpg",
+  "domain": "Society",
+  "image_type": "Poster"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-22",
+  "image_file": "dev-22.jpg",
+  "domain": "Society",
+  "image_type": "Poster"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-23",
+  "image_file": "dev-23.jpg",
+  "domain": "Society",
+  "image_type": "Poster"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-24",
+  "image_file": "dev-24.jpg",
+  "domain": "Society",
+  "image_type": "Poster"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-25",
+  "image_file": "dev-25.jpg",
+  "domain": "Others",
+  "image_type": "Poster"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-26",
+  "image_file": "dev-26.jpg",
+  "domain": "Life",
+  "image_type": "Painting"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-27",
+  "image_file": "dev-27.jpg",
+  "domain": "Life",
+  "image_type": "Painting"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-28",
+  "image_file": "dev-28.jpg",
+  "domain": "Society",
+  "image_type": "Painting"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-29",
+  "image_file": "dev-29.jpg",
+  "domain": "Society",
+  "image_type": "Painting"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-30",
+  "image_file": "dev-30.jpg",
+  "domain": "Society",
+  "image_type": "Painting"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-31",
+  "image_file": "dev-31.jpg",
+  "domain": "Art",
+  "image_type": "Logo"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-32",
+  "image_file": "dev-32.jpg",
+  "domain": "Society",
+  "image_type": "Logo"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-33",
+  "image_file": "dev-33.jpg",
+  "domain": "Art",
+  "image_type": "Logo"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-34",
+  "image_file": "dev-34.jpg",
+  "domain": "Art",
+  "image_type": "Logo"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "dev-35",
+  "image_file": "dev-35.jpg",
+  "domain": "Society",
+  "image_type": "Logo"
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "test-1",
+  "image_file": "test-1.jpg",
+  "domain": "Society",
+  "image_type": [
+   "Multi-panel Comic"
+  ]
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "test-2",
+  "image_file": "test-2.jpg",
+  "domain": "Society",
+  "image_type": [
+   "Multi-panel Comic"
+  ]
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "test-3",
+  "image_file": "test-3.jpg",
+  "domain": "Life",
+  "image_type": [
+   "Multi-panel Comic"
+  ]
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "test-4",
+  "image_file": "test-4.jpg",
+  "domain": "Life",
+  "image_type": [
+   "Multi-panel Comic"
+  ]
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "test-5",
+  "image_file": "test-5.jpg",
+  "domain": "Society",
+  "image_type": [
+   "Multi-panel Comic"
+  ]
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "test-6",
+  "image_file": "test-6.jpg",
+  "domain": "Society",
+  "image_type": [
+   "Multi-panel Comic"
+  ]
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "test-7",
+  "image_file": "test-7.jpg",
+  "domain": "Life",
+  "image_type": [
+   "Multi-panel Comic"
+  ]
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "test-8",
+  "image_file": "test-8.jpg",
+  "domain": "Life",
+  "image_type": [
+   "Multi-panel Comic"
+  ]
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "test-9",
+  "image_file": "test-9.jpg",
+  "domain": "Society",
+  "image_type": [
+   "Multi-panel Comic"
+  ]
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "test-10",
+  "image_file": "test-10.jpg",
+  "domain": "Society",
+  "image_type": [
+   "Multi-panel Comic"
+  ]
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "test-11",
+  "image_file": "test-11.jpg",
+  "domain": "Life",
+  "image_type": [
+   "Multi-panel Comic"
+  ]
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "test-12",
+  "image_file": "test-12.jpg",
+  "domain": "Society",
+  "image_type": [
+   "Single-panel Comic"
+  ]
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "test-13",
+  "image_file": "test-13.jpg",
+  "domain": "Society",
+  "image_type": [
+   "Single-panel Comic"
+  ]
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "test-14",
+  "image_file": "test-14.jpg",
+  "domain": "Art",
+  "image_type": [
+   "Single-panel Comic"
+  ]
+ },
+ {
+  "language": "en",
+  "benchmark": "II-Bench",
+  "item_id": "test-15",
+  "image_file": "test-15.jpg",
+  "domain": "Art",
+  "image_type": [
+   "Single-panel Comic"
+  ]
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-1",
+  "image_file": "dev-1.jpg",
+  "domain": "社会",
+  "image_type": "单格漫画(Single-panel Comic)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-2",
+  "image_file": "dev-2.jpg",
+  "domain": "社会",
+  "image_type": "单格漫画(Single-panel Comic)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-3",
+  "image_file": "dev-3.jpg",
+  "domain": "社会",
+  "image_type": "插画(Illustration)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-4",
+  "image_file": "dev-4.jpg",
+  "domain": "环境",
+  "image_type": "海报(Poster)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-5",
+  "image_file": "dev-5.jpg",
+  "domain": "生活",
+  "image_type": "单格漫画(Single-panel Comic)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-6",
+  "image_file": "dev-6.jpg",
+  "domain": "艺术",
+  "image_type": "插画(Illustration)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-7",
+  "image_file": "dev-7.jpg",
+  "domain": "生活",
+  "image_type": "梗图(Meme)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-8",
+  "image_file": "dev-8.jpg",
+  "domain": "生活",
+  "image_type": "插画(Illustration)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-9",
+  "image_file": "dev-9.jpg",
+  "domain": "艺术",
+  "image_type": "海报(Poster)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-10",
+  "image_file": "dev-10.jpg",
+  "domain": "中华传统文化",
+  "image_type": "绘画(Painting)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-11",
+  "image_file": "dev-11.jpg",
+  "domain": "环境",
+  "image_type": "海报(Poster)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-12",
+  "image_file": "dev-12.jpg",
+  "domain": "生活",
+  "image_type": "梗图(Meme)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-13",
+  "image_file": "dev-13.jpg",
+  "domain": "艺术",
+  "image_type": "单格漫画(Single-panel Comic)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-14",
+  "image_file": "dev-14.jpg",
+  "domain": "艺术",
+  "image_type": "插画(Illustration)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-15",
+  "image_file": "dev-15.jpg",
+  "domain": "社会",
+  "image_type": "单格漫画(Single-panel Comic)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-16",
+  "image_file": "dev-16.jpg",
+  "domain": "艺术",
+  "image_type": "插画(Illustration)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-17",
+  "image_file": "dev-17.jpg",
+  "domain": "环境",
+  "image_type": {
+   "choices": [
+    "插画(Illustration)",
+    "海报(Poster)"
+   ]
+  }
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-18",
+  "image_file": "dev-18.jpg",
+  "domain": "社会",
+  "image_type": "多格漫画(Multi-panel Comic)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-19",
+  "image_file": "dev-19.jpg",
+  "domain": "艺术",
+  "image_type": "海报(Poster)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-20",
+  "image_file": "dev-20.jpg",
+  "domain": "艺术",
+  "image_type": "插画(Illustration)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-21",
+  "image_file": "dev-21.jpg",
+  "domain": "艺术",
+  "image_type": {
+   "choices": [
+    "插画(Illustration)"
+   ]
+  }
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-22",
+  "image_file": "dev-22.jpg",
+  "domain": "生活",
+  "image_type": "梗图(Meme)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-23",
+  "image_file": "dev-23.jpg",
+  "domain": "中华传统文化",
+  "image_type": "绘画(Painting)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-24",
+  "image_file": "dev-24.jpg",
+  "domain": "社会",
+  "image_type": "插画(Illustration)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-25",
+  "image_file": "dev-25.jpg",
+  "domain": "生活",
+  "image_type": "梗图(Meme)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-26",
+  "image_file": "dev-26.jpg",
+  "domain": "生活",
+  "image_type": "梗图(Meme)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-27",
+  "image_file": "dev-27.jpg",
+  "domain": "环境",
+  "image_type": "海报(Poster)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-28",
+  "image_file": "dev-28.jpg",
+  "domain": "生活",
+  "image_type": "多格漫画(Multi-panel Comic)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-29",
+  "image_file": "dev-29.jpg",
+  "domain": "社会",
+  "image_type": "单格漫画(Single-panel Comic)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-30",
+  "image_file": "dev-30.jpg",
+  "domain": "生活",
+  "image_type": "梗图(Meme)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-31",
+  "image_file": "dev-31.jpg",
+  "domain": "艺术",
+  "image_type": "插画(Illustration)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-32",
+  "image_file": "dev-32.jpg",
+  "domain": "社会",
+  "image_type": "单格漫画(Single-panel Comic)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-33",
+  "image_file": "dev-33.jpg",
+  "domain": "艺术",
+  "image_type": "插画(Illustration)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-34",
+  "image_file": "dev-34.jpg",
+  "domain": "社会",
+  "image_type": "单格漫画(Single-panel Comic)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "dev-35",
+  "image_file": "dev-35.jpg",
+  "domain": "艺术",
+  "image_type": "海报(Poster)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "test-1",
+  "image_file": "test-1.jpg",
+  "domain": "生活",
+  "image_type": "海报(Poster)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "test-2",
+  "image_file": "test-2.jpg",
+  "domain": "艺术",
+  "image_type": "插画(Illustration)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "test-3",
+  "image_file": "test-3.jpg",
+  "domain": "艺术",
+  "image_type": "海报(Poster)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "test-4",
+  "image_file": "test-4.jpg",
+  "domain": "中华传统文化",
+  "image_type": "绘画(Painting)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "test-5",
+  "image_file": "test-5.jpg",
+  "domain": "中华传统文化",
+  "image_type": "绘画(Painting)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "test-6",
+  "image_file": "test-6.jpg",
+  "domain": "社会",
+  "image_type": "插画(Illustration)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "test-7",
+  "image_file": "test-7.jpg",
+  "domain": "中华传统文化",
+  "image_type": "绘画(Painting)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "test-8",
+  "image_file": "test-8.jpg",
+  "domain": "环境",
+  "image_type": "插画(Illustration)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "test-9",
+  "image_file": "test-9.jpg",
+  "domain": "社会",
+  "image_type": "插画(Illustration)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "test-10",
+  "image_file": "test-10.jpg",
+  "domain": "中华传统文化",
+  "image_type": "绘画(Painting)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "test-11",
+  "image_file": "test-11.jpg",
+  "domain": "政治",
+  "image_type": "单格漫画(Single-panel Comic)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "test-12",
+  "image_file": "test-12.jpg",
+  "domain": "生活",
+  "image_type": "多格漫画(Multi-panel Comic)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "test-13",
+  "image_file": "test-13.jpg",
+  "domain": "生活",
+  "image_type": "梗图(Meme)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "test-14",
+  "image_file": "test-14.jpg",
+  "domain": "生活",
+  "image_type": "梗图(Meme)"
+ },
+ {
+  "language": "zh",
+  "benchmark": "CII-Bench",
+  "item_id": "test-15",
+  "image_file": "test-15.jpg",
+  "domain": "社会",
+  "image_type": "单格漫画(Single-panel Comic)"
+ }
+]
