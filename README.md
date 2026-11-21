@@ -1,12 +1,11 @@
 # Let Androids Dream: From Visual Elements to Emergent Implications via Contextual Alignment
 
-[**Project Page**](https://ming-zch.github.io/lad) | [**arXiv Paper (v3)**](https://arxiv.org/abs/2505.17019) | [**CVPR 2026 CogVL Workshop**](https://openreview.net/forum?id=RUNGZuEWvT)
+[**Project Page**](https://ming-zch.github.io/lad) | [**arXiv**](https://arxiv.org/abs/2505.17019)
 
 ## 🔥 News
-- **[Nov. 2026]**: Updated our paper on [arXiv (v3)](https://arxiv.org/abs/2505.17019) under the new title *"Let Androids Dream: From Visual Elements to Emergent Implications via Contextual Alignment"*, reframing LAD around test-time contextual alignment with expanded backbone, ablation, and statistical analyses.
-- **[2026]**: *"Let Androids Dream of Electric Sheep: A Human-Inspired Image Metaphor Understanding and Reasoning Framework"* was presented as a poster at the **CVPR 2026 CogVL Workshop** ([OpenReview](https://openreview.net/forum?id=RUNGZuEWvT)).
-- **[Dec. 2025]**: Updated our paper on [arXiv (v2)](https://arxiv.org/abs/2505.17019v2) (*"Let Androids Dream of Electric Sheep: A Human-Inspired Image Implication Understanding and Reasoning Framework"*).
-- **[May. 2025]**: Released the initial paper on [arXiv (v1)](https://arxiv.org/abs/2505.17019v1) (*"Let Androids Dream of Electric Sheep: A Human-Inspired Image Implication Understanding and Reasoning Framework"*).
+- **[Nov. 2026]**: Our paper *"Let Androids Dream: From Visual Elements to Emergent Implications via Contextual Alignment"* is available on [arXiv](https://arxiv.org/abs/2505.17019), and the [project page](https://ming-zch.github.io/lad) is online.
+- **[Mar. 2026]**: *"Let Androids Dream of Electric Sheep: A Human-Inspired Image Metaphor Understanding and Reasoning Framework"* was accepted as a poster at the **CVPR 2026 CogVL Workshop**.
+- **[May. 2025]**: Released our paper on [arXiv](https://arxiv.org/abs/2505.17019).
 - **[May. 2025]**: Released our code and evaluation dataset!
 
 ## Introduction
@@ -121,7 +120,7 @@ LAD improves all five tested backbones on S100 (Qwen2.5-VL-7B, GPT-4o-mini, Qwen
 
 ## Citation
 
-If you find our work helpful in your research, please cite the latest arXiv preprint or the CVPR 2026 CogVL Workshop paper:
+If you find our work helpful in your research, please cite:
 
 ```bibtex
 @article{zhang2026lad,
@@ -129,16 +128,6 @@ If you find our work helpful in your research, please cite the latest arXiv prep
   author={Chenhao Zhang and Yazhe Niu},
   journal={arXiv preprint arXiv:2505.17019},
   year={2026}
-}
-```
-
-```bibtex
-@inproceedings{zhang2026lad_cogvl,
-  title={Let Androids Dream of Electric Sheep: A Human-Inspired Image Metaphor Understanding and Reasoning Framework},
-  author={Chenhao Zhang and Yazhe Niu},
-  booktitle={CVPR 2026 Workshop (CogVL)},
-  year={2026},
-  url={https://openreview.net/forum?id=RUNGZuEWvT}
 }
 ```
 
